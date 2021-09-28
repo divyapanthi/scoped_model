@@ -1,4 +1,3 @@
-import 'package:scoped_model/scoped_model.dart';
 import 'package:scoped_model_guide/enums/view_states.dart';
 import 'package:scoped_model_guide/scoped_models/base_model.dart';
 import 'package:scoped_model_guide/service_locator.dart';
